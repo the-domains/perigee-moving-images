@@ -1,0 +1,28 @@
+name: Perigee Moving Images
+favicon: null
+layout_spectrum: 0.8719262545928359
+typography_spectrum: 0.8376715634949505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.281097668223083
+  lightness: 0.41680718143470585
+  saturation: 0.8699683139566332
+  rhythmicContrast: 0.5763948943931609
+purpose: []
